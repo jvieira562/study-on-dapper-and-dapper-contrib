@@ -1,0 +1,51 @@
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.exe
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.deps.json
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.runtimeconfig.json
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.pdb
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Azure.Core.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Dapper.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.csproj.AssemblyReference.cache
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.AssemblyInfoInputs.cache
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.AssemblyInfo.cs
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.csproj.CoreCompileInputs.cache
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.csproj.CopyComplete
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\refint\Acesso à dados com .NET, C#, Dapper e SQL Server.dll
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.pdb
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\Acesso à dados com .NET, C#, Dapper e SQL Server.genruntimeconfig.cache
+C:\dev\1 - Cursos\Balta.io\.Net Data Access\Acesso à dados com .NET, C#, Dapper e SQL Server\obj\Debug\net7.0\ref\Acesso à dados com .NET, C#, Dapper e SQL Server.dll
