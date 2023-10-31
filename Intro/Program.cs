@@ -4,7 +4,7 @@ using DapperAndSQLServer;
 using Microsoft.Data.SqlClient;
 using DapperAndSQLServer.Models;
 
-const string connectionString = "Server=localhost,1433;Database=balta;User ID=sa;Password=1q2w!Q@W; TrustServerCertificate=True";
+const string connectionString = "";
 
 using (var connection = new SqlConnection(connectionString))
 {
